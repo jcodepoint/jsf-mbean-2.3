@@ -1,1 +1,2 @@
-# jsf-mbean-2.3
+## Artículo en JCodePoint
+* [JSF Managed Beans](https://jcodepoint.com/jsf/managed-beans/)
